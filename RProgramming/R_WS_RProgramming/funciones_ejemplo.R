@@ -7,3 +7,7 @@ sumaDos <- function(x){
   x+2
 }   
 msg2<-"mensaje de prueba 2"
+
+sumaCinco <- function(x){
+  x+5
+} 
